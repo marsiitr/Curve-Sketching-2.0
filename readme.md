@@ -1,10 +1,9 @@
 # Curve Sketching Bot 2.0
 ## ABSTRACT
 
-The aim of the project is to create a bot which can sketch any curve on a planr surface.
+The aim of the project is to create a bot which can sketch any curve on a planr surface.  
 
-
-  ![Curve Sketching Bot 2.0](/Curve-Sketching-2.0/images and videos/images/3.JPG)
+![Curve Sketching Bot 2.0](/Curve-Sketching-2.0/images and videos/images/3.JPG)
 
 
 ## MOTIVATION
