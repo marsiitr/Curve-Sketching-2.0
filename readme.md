@@ -51,18 +51,18 @@ We got inspiration to do this project because there is no handy product to sketc
 
 ## Cost Structure 
 
-|Components|Quantity|rate|Amount|
+|Components|Cost(INR)|
 |----------|--------|----|------|
-|Wheels|5|Rs.450|Rs.2250|
-|Linear Bearing|2|Rs.100|Rs.200|
-|Gyroscope(MPU 9250)|1|Rs.450|Rs.450|
-|Motors|3|Rs.500|Rs.1500|
-|Motor Drive|2|Rs.2500|Rs.5000|
-|Arduino Mega|1|Rs.650|Rs.650|
-|Bread Board|1|Rs.100|Rs.100|
-|11.1V LiPo Battery|1|Rs.750|Rs.750|
-|Aluminium square channels|4 ft|Rs.20/ft|Rs.100|
-|**Total**|||**Rs.11,000**|
+|Wheels|Rs.2250|
+|Linear Bearing|Rs.200|
+|Gyroscope(MPU 9250)|Rs.450|
+|Motors|Rs.1500|
+|Motor Drive|Rs.5000|
+|Arduino Mega|Rs.650|
+|Bread Board|Rs.100|
+|11.1V LiPo Battery|Rs.750|
+|Aluminium square channels|Rs.100|
+|**Total**|**Rs.11,000**|
 ## Applications
 
 Plotting any continuous curves on any scale of canvas.
