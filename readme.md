@@ -3,7 +3,7 @@
 
 The aim of the project is to create a bot which can sketch any curve on a plane surface.  
 
- ![Curve](https://github.com/Curve-Sketching-2.0/images and videos/images/3.JPG)
+ ![Curve](https://github.com/R-VijaiKumar/Curve-Sketching-2.0/blob/master/images%20and%20videos/images/3.JPG)
 
 
 ## Motivation
