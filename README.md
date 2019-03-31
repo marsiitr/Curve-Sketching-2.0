@@ -90,3 +90,4 @@ Plotting any continuous curves on any scale of canvas.
 ![Team](https://github.com/R-VijaiKumar/Curve-Sketching-2.0/blob/master/Images%20and%20Videos/Images/Team.jpg)
 ## References
  
+<https://www.google.com/amp/s/amp.livescience.com/40103-accelerometer-vs-gyroscope.html>
