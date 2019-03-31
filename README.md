@@ -52,7 +52,7 @@ We got inspiration to do this project because there is no handy product to sketc
 ## Cost Structure 
 
 |Components|Cost(INR)|
-|----------|--------|----|------|
+|----------|---------|
 |Wheels|Rs.2250|
 |Linear Bearing|Rs.200|
 |Gyroscope(MPU 9250)|Rs.450|
