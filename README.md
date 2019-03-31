@@ -3,7 +3,7 @@
 
 The aim of the project is to create a bot which can sketch any curve on a plane surface.  
 
- ![Curve](https://github.com/R-VijaiKumar/Curve-Sketching-2.0/blob/master/images%20and%20videos/images/3.JPG)
+ ![Curve](https://github.com/R-VijaiKumar/Curve-Sketching-2.0/blob/master/Images%20and%20Videos/Images/Front%20View.JPG)
 
 
 ## Motivation
@@ -87,6 +87,6 @@ Plotting any continuous curves on any scale of canvas.
 
 1.  Ujjwal Baranwal
 2.  Vedant Neekhra
-
+![Team](https://drive.google.com/file/d/13Fixmz_M8GAl-Cm-Ez9yXGT-KP7jmOke/view?usp=sharing)
 ## References
  
