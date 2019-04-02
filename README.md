@@ -53,16 +53,16 @@ We got inspiration to do this project because there is no handy product to sketc
 
 |Components|Cost(INR)|
 |----------|---------|
-|Wheels|Rs.2250|
-|Linear Bearing|Rs.200|
-|Gyroscope(MPU 9250)|Rs.450|
-|Motors|Rs.1500|
-|Motor Drive|Rs.5000|
-|Arduino Mega|Rs.650|
-|Bread Board|Rs.100|
-|11.1V LiPo Battery|Rs.750|
-|Aluminium square channels|Rs.100|
-|**Total**|**Rs.11,000**|
+|Wheels|5*450|
+|Linear Bearing|2*100|
+|Gyroscope(MPU 9250)|1*450|
+|Motors|3*500|
+|Motor Drive|2*2500|
+|Arduino Mega|1*650|
+|Bread Board|1*100|
+|11.1V LiPo Battery|1*750|
+|Aluminium square channels|1*100|
+|**Total**|**11,000**|
 ## Applications
 
 Plotting any continuous curves on any scale of canvas.
