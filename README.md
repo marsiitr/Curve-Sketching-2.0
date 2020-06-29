@@ -131,4 +131,5 @@ It can be used to plot any continuous curve on plane canvas of any scale.
 ## References
  
 <https://www.google.com/amp/s/amp.livescience.com/40103-accelerometer-vs-gyroscope.html>
+
 <https://www.autonomousrobotslab.com/pid-control.html>
