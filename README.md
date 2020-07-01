@@ -39,6 +39,7 @@ Hence we came up with the idea of making an advanced version of the bot that is 
 
 ## Mechanical Aspect Of Design
 
+
 ### Chassis
 It is an equilateral triangle-shaped, 3 wheeled Omni drive bot that can be easily manufactured. Omni drives are really fast, it can move in any direction without changing its orientation i.e., in locked orientation and the wheels always stay in contact with the ground even if the surface is uneven.
 
@@ -86,6 +87,23 @@ Arduino Mega 2560 R3 is used as the microcontroller board.
 * Arduino Mega board is powered with 9V converted output of the battery.
 * Encoders are powered with 5V converted output of the battery.
 * MPU9250 is powered with 5V Vcc of Arduino.
+
+=======
+1.  It's a 3 wheeled omni drive bot which can sketch any curve given to it. 
+2.  The chasis is made of aluminium square channels in an equilateral triangular design. 
+3.  Motor and the omni wheel are attached together with couplings. 
+4.  3 wheels are placed at 120 degree to each other. 
+5.  Encoders, attached with free wheels using coupling, are attached to the chasis using hinges so that all 5 wheels are in the same plane.Both the encoders are placed mutually perpendicular to each other.
+6. Pen is placed at the centroid with the help of 3d printed cylindrical part. Linear bearings are used for easy motion of pen. A spring is attached to the pen on the top and is pressed by a wooden block.
+
+## Electronics Aspect Of Design
+
+1.  3 motors are controlled by 2 motor drivers which is powered directly from 11.1V LiPo battery.
+2.  Encoders are given +5V regulated power.
+3.  Output A of both the encoders are connected to normal digital pins whereas Output B of both the encoders are connected to interrupt     pins.
+4.  Gyroscope is directly attached to arduino's scl/sda pins with male-male connector to reduce wire length.
+5.  Gyroscope is given 5V output power from arduino.
+6.  2 switches are used. One for motor drivers and another one for rest of the system.
 
 
 ## Cost Structure 
